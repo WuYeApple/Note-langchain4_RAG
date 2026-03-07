@@ -147,35 +147,35 @@ SLF4J报错，先引入logback依赖，再打开logRequests、logResponses
 
 3、application.yml中配置大模型
 
-![77192671338](langchain4j+RAG.assets/1771926713384.png)
+<img width="925" height="277" alt="1771926713384" src="https://github.com/user-attachments/assets/fe013d74-1f84-461e-9414-5fb0d68dc56d" />
 
 4、开发接口，调用大模型
 
-![77192675255](langchain4j+RAG.assets/1771926752559.png)
+<img width="633" height="443" alt="1771926752559" src="https://github.com/user-attachments/assets/55761894-e32c-4c45-85f6-61e5fa8b745a" />
 
 ### AiServices工具类
 
 1、引入依赖
 
-![77192703880](langchain4j+RAG.assets/1771927038809.png)
+<img width="933" height="265" alt="1771927038809" src="https://github.com/user-attachments/assets/6e7cd459-5537-4069-b39f-2c4f13d0e8f6" />
 
 2、声明接口
 
-![77192705104](langchain4j+RAG.assets/1771927051044.png)
+<img width="933" height="210" alt="1771927051044" src="https://github.com/user-attachments/assets/5c0db823-c4a0-4c98-8efb-27941d586a1b" />
 
 3、
 
 * 使用AiServices为接口创建代理对象
 
-![77192707266](langchain4j+RAG.assets/1771927072663.png)
+<img width="858" height="327" alt="1771927072663" src="https://github.com/user-attachments/assets/165d6fed-c551-4e56-8ff5-4512af392e6f" />
 
 * 声明式使用
 
-![77192735488](langchain4j+RAG.assets/1771927354888.png)
+<img width="928" height="395" alt="1771927354888" src="https://github.com/user-attachments/assets/08a83035-ae34-4a17-8845-a86e9ba5b00d" />
 
 4、在Controller中注入并使用	
 
-![77192708377](langchain4j+RAG.assets/1771927083777.png)
+<img width="633" height="436" alt="1771927083777" src="https://github.com/user-attachments/assets/ba28b606-8eeb-4e73-9153-6bc32126ab49" />
 
 ### 流式调用
 
@@ -189,11 +189,11 @@ SLF4J报错，先引入logback依赖，再打开logRequests、logResponses
 
 
 
-![77192816388](langchain4j+RAG.assets/1771928163888.png)
+<img width="923" height="426" alt="1771928163888" src="https://github.com/user-attachments/assets/b8a2814a-d334-4b18-8918-a0dd7df82020" />
 
-![77192818371](langchain4j+RAG.assets/1771928183711.png)
+<img width="640" height="409" alt="1771928183711" src="https://github.com/user-attachments/assets/5a5377b8-bb7a-49d4-8eb4-a8fc79b5f9c5" />
 
-![77192821628](langchain4j+RAG.assets/1771928216280.png)
+<img width="926" height="365" alt="1771928216280" src="https://github.com/user-attachments/assets/5c05ad82-e432-402a-84a4-0a9c68b534f0" />
 
 
 
@@ -204,7 +204,7 @@ SLF4J报错，先引入logback依赖，再打开logRequests、logResponses
 
 
 
-![77193003459](langchain4j+RAG.assets/1771930034599.png)
+<img width="928" height="253" alt="1771930034599" src="https://github.com/user-attachments/assets/7e11d0fc-0c6d-4039-978c-f7f15713e8d6" />
 
 
 
@@ -218,11 +218,11 @@ SLF4J报错，先引入logback依赖，再打开logRequests、logResponses
 
 
 
-![77193022168](langchain4j+RAG.assets/1771930221688.png)
+<img width="926" height="348" alt="1771930221688" src="https://github.com/user-attachments/assets/5aa0cfb7-a5b0-4cd4-8f2a-2983356ba642" />
 
-![77193027217](langchain4j+RAG.assets/1771930272173.png)
+<img width="941" height="281" alt="1771930272173" src="https://github.com/user-attachments/assets/9fa83f3d-af38-4fb7-83fd-632393c2cd2a" />
 
-![77193030055](langchain4j+RAG.assets/1771930300551.png)
+<img width="634" height="424" alt="1771930300551" src="https://github.com/user-attachments/assets/60f5771a-2cf3-4162-a2b0-4a9d64cc2e7e" />
 
 
 
@@ -244,11 +244,11 @@ SLF4J报错，先引入logback依赖，再打开logRequests、logResponses
 
 
 
-![77193071704](langchain4j+RAG.assets/1771930717049.png)
+<img width="938" height="533" alt="1771930717049" src="https://github.com/user-attachments/assets/98ab2dbf-4f32-4dd8-b23f-b748573546b9" />
 
-![77193081241](langchain4j+RAG.assets/1771930812413.png)
+<img width="862" height="306" alt="1771930812413" src="https://github.com/user-attachments/assets/a6ac88a7-ff42-4b14-be8c-fc2d9306d1fe" />
 
-![77193082310](langchain4j+RAG.assets/1771930823105.png)
+<img width="645" height="355" alt="1771930823105" src="https://github.com/user-attachments/assets/42f05eaf-ba61-40a2-aebd-4444bb77c414" />
 
 
 
@@ -299,9 +299,9 @@ RAG，**检索增强生成**。通过外部知识库的方式增强大模型的�
 
 
 
-![77193215086](langchain4j+RAG.assets/1771932150862.png)
+<img width="1313" height="797" alt="1771932150862" src="https://github.com/user-attachments/assets/b4dba73d-5d8c-4c13-9799-7a46ca048597" />
 
-![77193223404](langchain4j+RAG.assets/1771932234048.png)
+<img width="1554" height="792" alt="1771932234048" src="https://github.com/user-attachments/assets/9a565486-3498-47d2-88ff-f542b58aed69" />
 
 
 
@@ -313,19 +313,19 @@ RAG，**检索增强生成**。通过外部知识库的方式增强大模型的�
 
 从向量数据库检索出跟用户问题相关的文本片段：
 
-![77193227830](langchain4j+RAG.assets/1771932278304.png)
+<img width="1330" height="425" alt="1771932278304" src="https://github.com/user-attachments/assets/525fc719-f93a-4d60-bd50-5ec87d3832bf" />
 
-![77193248563](langchain4j+RAG.assets/1771932485633.png)
-
-
+<img width="1639" height="508" alt="1771932485633" src="https://github.com/user-attachments/assets/dc869406-01fa-4341-aa17-ff2d52ca84ee" />
 
 
 
 
 
-![77193157026](langchain4j+RAG.assets/1771931570264.png)
 
-![77193464495](langchain4j+RAG.assets/1771934644953.png)
+
+<img width="1168" height="736" alt="1771931570264" src="https://github.com/user-attachments/assets/4ad4d8eb-6655-4d95-bfa8-ef4427da19e8" />
+
+<img width="1596" height="779" alt="1771934644953" src="https://github.com/user-attachments/assets/537accfe-a0dc-4e84-8575-6ec1880047b3" />
 
 ---
 
@@ -352,13 +352,13 @@ RAG，**检索增强生成**。通过外部知识库的方式增强大模型的�
 
 
 
-![77193398984](langchain4j+RAG.assets/1771933989848.png)
+<img width="976" height="852" alt="1771933989848" src="https://github.com/user-attachments/assets/f307d43a-e41e-4134-86fe-5827935529d1" />
 
 ---
 
 向量数据库已经自动向IOC容器注入embeddingStore对象，所以不能重复
 
-![77193440110](langchain4j+RAG.assets/1771934401105.png)![77193446165](langchain4j+RAG.assets/1771934461654.png)
+<img width="1168" height="462" alt="1771934461654" src="https://github.com/user-attachments/assets/7e5c2dd9-4932-4e6a-9452-07e1e8043a5a" />
 
 ---
 
@@ -426,5 +426,6 @@ RAG，**检索增强生成**。通过外部知识库的方式增强大模型的�
 
 
 ![77193754108](langchain4j+RAG.assets/1771937541089.png)
+
 
 
